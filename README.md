@@ -30,6 +30,8 @@ Try it [here](https://drive.google.com/file/d/1zgsrMufD_MZYhnoFZSM4Wb96IBUqiMgZ/
 
 This code introduces single quantum gates and how they are represented mathematically. It shows how quantum gates are just linear transformations that are applied on state vectors of the qubit. The code shows how each gate transforms a qubit visually on the Bloch sphere (rotation on the z-axis, on the vector [1, 0, 1]...).
 
+Try it [here](https://drive.google.com/file/d/1Wwr5DGKIL2U2G0cVW1IFB_OFKOKN2KMB/view?usp=sharing).
+
 ## Future Work
 
 - Adding multiple quantum gates.
