@@ -34,6 +34,14 @@ Try it [here](https://drive.google.com/file/d/1zgsrMufD_MZYhnoFZSM4Wb96IBUqiMgZ/
 
 This code introduces single quantum gates and how they are represented mathematically. It shows how quantum gates are just linear transformations that are applied on state vectors of the qubits. The code shows how each gate transforms a qubit visually on the Bloch sphere (rotation on the z-axis, on the vector [1, 0, 1]...).
 
+### 5. Grover's Algorithm with 3 Qubits
+
+This code introduces Grover's algorithm by applying it on 3 qubits and demonstrating how a search can be done using the algorithm. Linear Algebra topics related include vectors, vector spaces, reflection, rotation, and linear transformations. 
+
+### 6. Solving a 2x2 Soduku Game Using Grover's Algorithm
+
+This code shows how Grover's algorithm can be applied to solve a 2x2 Soduku game, which can be generalized to solve a nxn Soduku game, the thing that becomes very hard for a classical computer to do.
+
 Try it [here](https://drive.google.com/file/d/1Wwr5DGKIL2U2G0cVW1IFB_OFKOKN2KMB/view?usp=sharing).
 
 ## Future Work
